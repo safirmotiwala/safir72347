@@ -13,7 +13,7 @@
 
 <h1 align="center"> About </h1>
 <p align="center">
-I am technically fervent and have loads of interest in developing applications in different domains. I have completed my BTech in Information Technology from MIT School Of Engineering. I have always been amazed by the magic of technology and would like to take this magic to the next level.🌱
+I am technically fervent and have loads of interest in developing applications in different domains. I have completed my BTech in Information Technology from MIT School Of Engineering. I am a Hackathon Enthusiast and have recently won a Hackathon in the AI/ML track organized by Google Developer Student Club. I have always been amazed by the magic of technology and would like to take this magic to the next level.🌱
 </p>
 <br />
 
