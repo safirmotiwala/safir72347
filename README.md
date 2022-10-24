@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> <a href="https://safirmotiwala.tech/">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I am Safir Motiwala </a> </h1>
+<h1 align="center"> <a href="https://safirmotiwala.tech/">Hello, I am Safir Motiwala </a> </h1>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safirmotiwala@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safir72347)
